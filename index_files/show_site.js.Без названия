@@ -1,0 +1,4 @@
+function show_site() {
+	document.getElementsByTagName("body")[0].style.visibility = "visible";
+}
+show_site();
